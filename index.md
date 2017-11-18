@@ -6,7 +6,7 @@
 My name is Hao Niu, graduated from Nankai University in 2016 and awarded a master's degree in Materials Chemistry. And nowadays，I'm a bank clerk, but there are something that drive me to be distinct from other guys...Creation, Innovation and Passion, I guess.
 
 ### Contact Me
-E-mail: nkniuhao@163.com
+E-mail: nkniuhao [at] 163.com
 
 Tele: (+86) 131-0217-1806
 
