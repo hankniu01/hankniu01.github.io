@@ -8,7 +8,7 @@ My name is Hao Niu, graduated from Nankai University in 2016 and awarded a maste
 [(Curriculum Vitae)](https://hankniu01.github.io/cv1.pdf)
 
 ### Contact Me
-E-mail: nkniuhao [at] 163.com
+E-mail: nkniuhao AT 163 DOT com
 
 Tele: (+86) 131-0217-1806
 
