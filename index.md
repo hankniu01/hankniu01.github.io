@@ -21,7 +21,7 @@ Ying Zhang, Hao Niu, Minghui Zhang*, Hydrodeoxygenation of Acetophenone over a B
 * Changchun University of Science and Technology, Changchun, P. R. China (2009-2013: BS)
 
 ### Employment History
-* Bank Clerk, Hua Xia Bank tianjin Branch (2016-)
+* Bank Clerk (the investment bank business), Hua Xia Bank Tianjin Branch (2016-)
 
 ```markdown
 Syntax highlighted code block
