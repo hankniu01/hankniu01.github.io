@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image of niuhao](https://octodex.github.com/images/yaktocat.png)
-
+![Image of niuhao](https://hankniu01.github.io/image/niuh.jpg)
 
 You can use the [editor on GitHub](https://github.com/hankniu01/hankniu01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
