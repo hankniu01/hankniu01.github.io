@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-<img src="/images/niuhao.JPG" class="floatpic" width="200" height="250">
+![Image of niuhao](https://octodex.github.com/images/yaktocat.png)
+
 
 You can use the [editor on GitHub](https://github.com/hankniu01/hankniu01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
