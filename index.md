@@ -2,9 +2,13 @@
 
 ![Image of niuhao](https://hankniu01.github.io/image/niuh.jpg)
 
-You can use the [editor on GitHub](https://github.com/hankniu01/hankniu01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+My name is Hao Niu, graduated from Nankai University in 2016 and awarded a master's degree in Materials Chemistry. And nowadays，I'm a bank clerk, but there are something that drive me to be distinct from other guys...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact me
+E-mail: nkniuhao@163.com
+
+Tele: +86 131-0217-1806
 
 ### Markdown
 
