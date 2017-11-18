@@ -11,7 +11,7 @@ E-mail: nkniuhao@163.com
 Tele: +86 131-0217-1806
 
 ### Research Interests
-Data mining, machine learning, and their applications, formerly finance and energy materials.
+Data mining, Machine learning, and their applications, formerly Finance and Energy materials.
 
 ### Publications
 Ying Zhang, Hao Niu, Minghui Zhang*, Hydrodeoxygenation of Acetophenone over a Bifunctional Sulfonated Carbon-supported Ruthenium Catalyst. The 1st International Symposium on Catalytic Science and Technology in Sustainable Energy and Environment, Tianjin, 2014.
