@@ -8,7 +8,7 @@ My name is Hao Niu, graduated from Nankai University in 2016 and awarded a maste
 ### Contact Me
 E-mail: nkniuhao@163.com
 
-Tele: +86 131-0217-1806
+Tele: (+86) 131-0217-1806
 
 ### Research Interests
 Data mining, Machine learning, and their applications, formerly Finance and Energy materials.
