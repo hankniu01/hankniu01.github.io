@@ -5,14 +5,21 @@
 ### About Me
 My name is Hao Niu, graduated from Nankai University in 2016 and awarded a master's degree in Materials Chemistry. And nowadays，I'm a bank clerk, but there are something that drive me to be distinct from other guys...
 
-### Contact me
+### Contact Me
 E-mail: nkniuhao@163.com
 
 Tele: +86 131-0217-1806
 
-### Markdown
+### Research Interests
+Data mining, machine learning, and their applications, formerly finance and energy materials.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+Ying Zhang, Hao Niu, Minghui Zhang*, Hydrodeoxygenation of Acetophenone over a Bifunctional Sulfonated Carbon-supported Ruthenium Catalyst. The 1st International Symposium on Catalytic Science and Technology in Sustainable Energy and Environment, Tianjin, 2014.
+
+### Education Background
+* Nankai University, Tianjin, P. R. China (2013-2016: MS)
+* Shanghai Jiao Tong University, Shanghai, P. R. China (1999-2003: BS)
+
 
 ```markdown
 Syntax highlighted code block
