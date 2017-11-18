@@ -18,8 +18,10 @@ Ying Zhang, Hao Niu, Minghui Zhang*, Hydrodeoxygenation of Acetophenone over a B
 
 ### Education Background
 * Nankai University, Tianjin, P. R. China (2013-2016: MS)
-* Shanghai Jiao Tong University, Shanghai, P. R. China (1999-2003: BS)
+* Changchun University of Science and Technology, Changchun, P. R. China (2009-2013: BS)
 
+### Employment History
+* Bank Clerk, Hua Xia Bank tianjin Branch (2016-)
 
 ```markdown
 Syntax highlighted code block
